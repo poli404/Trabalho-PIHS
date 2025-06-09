@@ -1,4 +1,4 @@
-# Interpretador Embutido e Estensor Python em C
+# Interpretador Embutido e Extensor Python em C
 
 Aluna: Maria Eduarda de Mello Policante - RA13439
 
