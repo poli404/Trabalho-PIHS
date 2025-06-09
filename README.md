@@ -14,3 +14,11 @@ Demonstrar níveis de integração:
 
 ## Observações
 - O arquivo LICENSE adotado é referente à biblioteca externa: levenshtein.c
+
+## Compilação
+É necessário o compilador gcc para a linguagem C.
+```bash
+make       # compila o projeto para o executável main
+make run   # executa o projeto - se necessário faz a compilação
+make clean # remove os arquivos obejto (.o) e o executável
+```
