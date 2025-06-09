@@ -1,7 +1,9 @@
 # Interpretador Embutido e Estensor Python em C
 
 Aluna: Maria Eduarda de Mello Policante - RA13439
+
 Professor: Marcelo de Gomensoro Malheiros
+
 Disciplina: Programação para Interfaceamento de Hardware e Software
 
 ## Objetivo
