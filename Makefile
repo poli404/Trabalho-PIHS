@@ -5,9 +5,9 @@ main: main.o pocketpy.o levenshtein.o
 
 main.o: main.c
 	gcc -Wall -c main.c
-pocketpy.o:
+pocketpy.o: pocketpy.c
 	gcc -Wall -c pocketpy.c
-levenshtein.o:
+levenshtein.o: levenshtein.c
 	gcc -Wall -c levenshtein.c
 
 clean:
